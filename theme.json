@@ -1,0 +1,23 @@
+{
+    "background": "#202020",
+    "black": "#1B1D1E",
+    "blue": "#1A3398",
+    "brightBlack": "#505354",
+    "brightBlue": "#3887AB",
+    "brightCyan": "#8FC9E3",
+    "brightGreen": "#C4FA50",
+    "brightPurple": "#C74BF9",
+    "brightRed": "#D64C4C",
+    "brightWhite": "#F8F8F2",
+    "brightYellow": "#E6DB74",
+    "cursorColor": "#BBBBBB",
+    "cyan": "#3C8CB0",
+    "foreground": "#C0C1C5",
+    "green": "#99C140",
+    "name": "CraigHurt-Dark",
+    "purple": "#8E4BA8",
+    "red": "#CC3232",
+    "selectionBackground": "#453B39",
+    "white": "#CCCCC6",
+    "yellow": "#FF6600"
+}
